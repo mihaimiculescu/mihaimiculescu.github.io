@@ -3,11 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mihaimiculescu.github.io/teaser1/</loc>
+    <loc>https://mihaimiculescu.github.io/gdpr/teaser1/</loc>
   </url>
   
   <url>
     <loc>https://mihaimiculescu.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mihaimiculescu.github.io/gdpr/</loc>
     <priority>0</priority>
   </url>
   
