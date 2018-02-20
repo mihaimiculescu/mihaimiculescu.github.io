@@ -10,5 +10,14 @@
 	<atom:link href="https://mihaimiculescu.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title></title>
+      <link>https://mihaimiculescu.github.io/teaser1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mihaimiculescu.github.io/teaser1/</guid>
+      <description>&amp;lt;!DOCTYPE html&amp;gt;  github_io_content/teaser1.md at master · mihaimiculescu/github_io_content · GitHub &amp;lt;meta content=&amp;quot;https://avatars3.githubusercontent.com/u/18408303?s=400&amp;amp;amp;v=4&amp;quot; property=&amp;quot;og:image&amp;quot; /&amp;gt;&amp;lt;meta content=&amp;quot;GitHub&amp;quot; property=&amp;quot;og:site_name&amp;quot; /&amp;gt;&amp;lt;meta content=&amp;quot;object&amp;quot; property=&amp;quot;og:type&amp;quot; /&amp;gt;&amp;lt;meta content=&amp;quot;mihaimiculescu/github_io_content&amp;quot; property=&amp;quot;og:title&amp;quot; /&amp;gt;&amp;lt;meta content=&amp;quot;https://github.com/mihaimiculescu/github_io_content&amp;quot; property=&amp;quot;og:url&amp;quot; /&amp;gt;&amp;lt;meta content=&amp;quot;github_io_content - Content for github.io JAMstack repo&amp;quot; property=&amp;quot;og:description&amp;quot; /&amp;gt;  &amp;lt;meta name=&amp;quot;google-site-verification&amp;quot; content=&amp;quot;KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU&amp;quot;&amp;gt;   &amp;lt;meta name=&amp;quot;hostname&amp;quot; content=&amp;quot;github.com&amp;quot;&amp;gt; &amp;lt;meta name=&amp;quot;user-login&amp;quot; content=&amp;quot;&amp;quot;&amp;gt; &amp;lt;meta name=&amp;quot;expected-hostname&amp;quot; content=&amp;quot;github.com&amp;quot;&amp;gt; &amp;lt;meta name=&amp;quot;js-proxy-site-detection-payload&amp;quot; content=&amp;quot;YThhZWUxYTZmMmMwMjkzNWU1YjcxMWEzNDUwMmM5ZTk0MDViNTExNDRkYzE3YTYyN2IyNjI5NDQ0YzY3NjI5M3x7InJlbW90ZV9hZGRyZXNzIjoiMTg4LjI3Ljc3LjkyIiwicmVxdWVzdF9pZCI6IkVENDA6MkEwREI6MzNGQTVBMzo2NjBBMTgwOjVBOEM0NjcxIiwidGltZXN0YW1wIjoxNTE5MTQyNTEzLCJob3N0IjoiZ2l0aHViLmNvbSJ9&amp;quot;&amp;gt; &amp;lt;meta name=&amp;quot;enabled-features&amp;quot; content=&amp;quot;UNIVERSE_BANNER,FREE_TRIALS,MARKETPLACE_HERO_CARD_UPLOADER,MARKETPLACE_INSIGHTS,MARKETPLACE_INSIGHTS_CONVERSION_PERCENTAGES&amp;quot;&amp;gt;   &amp;lt;link href=&amp;quot;https://github.com/mihaimiculescu/github_io_content/commits/master.atom&amp;quot; rel=&amp;quot;alternate&amp;quot; title=&amp;quot;Recent Commits to github_io_content:master&amp;quot; type=&amp;quot;application/atom+xml&amp;quot;&amp;gt;  &amp;lt;link rel=&amp;quot;canonical&amp;quot; href=&amp;quot;https://github.com/mihaimiculescu/github_io_content/blob/master/teaser1.md&amp;quot; data-pjax-transient&amp;gt;</description>
+    </item>
+    
   </channel>
 </rss>
