@@ -1,2 +1,0 @@
-# mihaimiculescu.github.io
-testJAMstack

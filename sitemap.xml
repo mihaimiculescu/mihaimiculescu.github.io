@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mihaimiculescu.github.io/gdpr/teaser1/</loc>
+    <loc>https://mihaimiculescu.github.io/portfolio/teaser1/</loc>
   </url>
   
   <url>
@@ -12,12 +12,12 @@
   </url>
   
   <url>
-    <loc>https://mihaimiculescu.github.io/gdpr/</loc>
+    <loc>https://mihaimiculescu.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mihaimiculescu.github.io/</loc>
+    <loc>https://mihaimiculescu.github.io/portfolio/</loc>
     <priority>0</priority>
   </url>
   
