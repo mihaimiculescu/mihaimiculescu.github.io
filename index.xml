@@ -5,18 +5,27 @@
     <link>https://mihaimiculescu.github.io/</link>
     <description>Recent content on MM&#39;s stuff</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>ro-RO</language>
     
 	<atom:link href="https://mihaimiculescu.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Teaser 1</title>
+      <title>1. ACTORI - despre cine este vorba?</title>
       <link>https://mihaimiculescu.github.io/portfolio/teaser1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mihaimiculescu.github.io/portfolio/teaser1/</guid>
-      <description>&lt;h4 id=&#34;actori-despre-cine-este-vorba&#34;&gt;ACTORI - &lt;em&gt;despre cine este vorba?&lt;/em&gt;&lt;/h4&gt;</description>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2. ROLURI - ce are de făcut fiecare?</title>
+      <link>https://mihaimiculescu.github.io/portfolio/teaser2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mihaimiculescu.github.io/portfolio/teaser2/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>
